@@ -15,7 +15,7 @@ A clean and minimal social media posting interface built with a responsive desig
 📸 UI Preview
 ![Social Media Post Creator UI](https://github.com/005kaushikmishra/Social-Media-Post/blob/9bc15c85c35dc9c300e0841b04cc9a680dba1abd/Jeera5.JPG)
 
-![Top Courses UI]()
+![Social Media Post Creator UI](https://github.com/005kaushikmishra/Social-Media-Post/blob/308211069c3f70a1e2bad1d0cf0b5cc1c34d74b1/Jeera6.JPG)
 
 🛠 Technology Stack
 HTML5 – Structure of the interface.
