@@ -13,7 +13,7 @@ A clean and minimal social media posting interface built with a responsive desig
 ⚡ Extensible – Can be integrated with APIs for saving or publishing posts to platforms like Instagram, Twitter, and Facebook.
 
 📸 UI Preview
-![Top Courses UI](https://github.com/005kaushikmishra/Social-Media-Post/blob/9bc15c85c35dc9c300e0841b04cc9a680dba1abd/Jeera5.JPG)
+![Social Media Post Creator UI](https://github.com/005kaushikmishra/Social-Media-Post/blob/9bc15c85c35dc9c300e0841b04cc9a680dba1abd/Jeera5.JPG)
 
 ![Top Courses UI]()
 
