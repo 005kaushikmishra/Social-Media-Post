@@ -33,3 +33,30 @@
   box-shadow: 0 0 4px rgba(0,0,0,0.2);
   z-index: 10;
 }
+body {
+    background: linear-gradient(135deg, #cfff5f, #f77bfe, #86e7cc, #9194ea);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+}
+
+@keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+.form-container {
+    width: 70%; 
+    margin: 50px auto; 
+    background: rgba(255, 255, 255, 0.9); 
+    padding: 30px;
+    border-radius: 15px; 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); 
+    backdrop-filter: blur(8px); 
+}
+
+
+.form-container input,
+.form-container textarea,
+.form-container button {
+    margin-bottom: 15px;
+}
