@@ -25,7 +25,7 @@ const CreatePost = () => {
   };
 
   return (
-    <form className="createpost" onSubmit={handleSubmit}>
+    <form className="form-container" onSubmit={handleSubmit}>
       <div className="mb-3">
         <label htmlFor="userid" className="form-label">
           User Id
@@ -83,3 +83,4 @@ const CreatePost = () => {
 };
 
 export default CreatePost;
+
