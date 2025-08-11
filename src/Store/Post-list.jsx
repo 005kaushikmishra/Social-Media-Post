@@ -54,21 +54,41 @@ const defPost = [
   {
     id: "1",
     title: "Facebook",
-    body: "better than nothing",
+    body: "Your day. Your plan. Your success. 📅💼",
     reaction: 7,
     userid: "usg-1",
-    tags: ["posts", "viral", "fb"],
+    tags: [
+      "#StayOrganized",
+      "#PlanYourDay",
+      "#BusinessGrowth",
+      "#SuccessJourney",
+    ],
     image: "./Facebook.jpg",
   },
   {
     id: "2",
-    title: "Twitter",
-    body: "better than nothing",
+    title: "Twitter (X)",
+    body: "Turn deadlines into done lines. ⏳➡️✅",
     reaction: 9,
     userid: "usg-1",
-    tags: ["breaks", "news"],
+    tags: ["#TimeManagement", "#DailyTasks", "#Efficiency"],
     image: "./Twitter.jpg",
+  },
+  {
+    id: "3",
+    title: "Instagram",
+    body: "Plan it. Do it. Done. ✍️✅",
+    reaction: 5,
+    userid: "usg-1",
+    tags: [
+      "#ProductivityGoals",
+      "#WorkSmarter",
+      "#DailyPlanning",
+      "#SuccessMindset",
+    ],
+    image: "./insta.jpeg",
   },
 ];
 
 export default PostlistProvider;
+
