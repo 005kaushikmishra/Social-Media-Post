@@ -12,6 +12,8 @@ A clean and minimal social media posting interface built with a responsive desig
 
 ⚡ Extensible – Can be integrated with APIs for saving or publishing posts to platforms like Instagram, Twitter, and Facebook.
 
+📸 UI Preview
+![Top Courses UI]()
 
 🛠 Technology Stack
 HTML5 – Structure of the interface.
